@@ -1,3 +1,9 @@
+It Doesn't Work
+===============
+Be aware that this is a failed proof-of-concept. I don't know why it doesn't work, but it doesn't. I wish it did.
+
+I've not abandoned hope nor this project, and would welcome any suggestions from others. 
+
 SugarCRM-Session-Extender
 =========================
 
