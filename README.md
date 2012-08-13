@@ -1,6 +1,6 @@
-It Doesn't Work
+It Might Not Work
 ===============
-Be aware that this is a failed proof-of-concept. I don't know why it doesn't work, but it doesn't. I wish it did.
+Be aware that this is a so-far failed proof-of-concept. I don't know why it doesn't work, but it doesn't. A major issue I just found was a bad file refernce. It's a good reason to be broken, but there maybe other issues.
 
 I've not abandoned hope nor this project, and would welcome any suggestions from others. 
 
